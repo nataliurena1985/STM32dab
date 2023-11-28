@@ -1,0 +1,3 @@
+../App/Aplicacion.c:105:6:AppInit	1
+../App/Aplicacion.c:120:6:AppLoop	43
+../App/Aplicacion.c:559:6:NOP	1

@@ -1,0 +1,15 @@
+../ILI9341/ILI9341_Driver.c:188:6:ILI9341_SPI_Send	16	static
+../ILI9341/ILI9341_Driver.c:539:13:ILI9341_Send_Command	8	static
+../ILI9341/ILI9341_Driver.c:548:13:ILI9341_Send_Data	8	static
+../ILI9341/ILI9341_Driver.c:193:6:ILI9341_SPI_Send_Multiple	16	static
+../ILI9341/ILI9341_Driver.c:200:6:ILI9341_Reset	8	static
+../ILI9341/ILI9341_Driver.c:29:6:ILI9341_Init	8	static
+../ILI9341/ILI9341_Driver.c:213:6:ILI9341_Set_Rotation	8	static
+../ILI9341/ILI9341_Driver.c:260:6:ILI9341_SPI_Send_32	16	static
+../ILI9341/ILI9341_Driver.c:275:6:ILI9341_Set_Address	40	static
+../ILI9341/ILI9341_Driver.c:311:6:ILI9341_Draw_Pixel	24	static
+../ILI9341/ILI9341_Driver.c:336:6:ILI9341_Draw_Line	48	static
+../ILI9341/ILI9341_Driver.c:325:6:ILI9341_Draw_Empty_Rectangle	32	static
+../ILI9341/ILI9341_Driver.c:387:6:ILI9341_Draw_Circle	72	static
+../ILI9341/ILI9341_Driver.c:558:6:ILI9341_Draw_Char	560	static
+../ILI9341/ILI9341_Driver.c:482:6:ILI9341_Draw_String	56	static

@@ -1,0 +1,3 @@
+../App/Aplicacion.c:105:6:AppInit	80	static
+../App/Aplicacion.c:120:6:AppLoop	128	static
+../App/Aplicacion.c:553:6:NOP	4	static

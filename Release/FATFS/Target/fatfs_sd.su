@@ -1,0 +1,12 @@
+../FATFS/Target/fatfs_sd.c:36:9:SD_ReadyWait	8	static
+../FATFS/Target/fatfs_sd.c:55:6:SD_PowerOn	24	static
+../FATFS/Target/fatfs_sd.c:96:6:SD_PowerOff	0	static
+../FATFS/Target/fatfs_sd.c:102:9:SD_CheckPower	0	static
+../FATFS/Target/fatfs_sd.c:109:6:SD_RxDataBlock	16	static
+../FATFS/Target/fatfs_sd.c:141:6:SD_TxDataBlock	16	static
+../FATFS/Target/fatfs_sd.c:193:6:SD_SendCmd	16	static
+../FATFS/Target/fatfs_sd.c:239:9:SD_disk_initialize	32	static
+../FATFS/Target/fatfs_sd.c:330:9:SD_disk_status	0	static
+../FATFS/Target/fatfs_sd.c:339:9:SD_disk_read	16	static
+../FATFS/Target/fatfs_sd.c:383:9:SD_disk_write	24	static
+../FATFS/Target/fatfs_sd.c:435:9:SD_disk_ioctl	32	static
